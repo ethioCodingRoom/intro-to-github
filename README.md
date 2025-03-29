@@ -1,5 +1,5 @@
 
-## This is my forked repository from hyperskill repository
+# This is my forked repository from hyperskill repository
 # intro-to-github
 This is a demo repository to practice using GitHub.
 
